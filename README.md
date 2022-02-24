@@ -15,3 +15,4 @@
 小游戏：吃掉鱼鱼
 
 
+https://kanonf.github.io/kanata/
